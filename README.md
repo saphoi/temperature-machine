@@ -7,7 +7,9 @@ O intuito deste código em conjunto com o modelo é representar uma máquina que
 Esta máquina foi desenvolvida para a disciplina Teoria da Computação do curso Engenharia de Software da UPE Garanhuns.
 
 **Modelo de máquina de turing**
+
 ![alt text](modelo.jpg)
+
 q0: Início
 q1: Temperatura normal
 q2: Temperatura acima da média
