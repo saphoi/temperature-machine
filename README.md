@@ -10,16 +10,16 @@ Esta máquina foi desenvolvida para a disciplina Teoria da Computação do curso
 
 ![alt text](modelo.jpg)
 
-q0: Início
-q1: Temperatura normal
-q2: Temperatura acima da média
-q3: Temperatura abaixo da média
+q0: Início  
+q1: Temperatura normal  
+q2: Temperatura acima da média  
+q3: Temperatura abaixo da média  
 q4: Final
 
-x: min < temp < max
-y: temp > max
-z: temp < min
-e: Sem mais temperaturas registradas (ao final da palavra é necessário colocar um "e", end, pra sinalizar que aquela foi a última temperatura)
-N: Sem alerta, temperatura normal
-A: Alerta de temperatura muito alta
-B: Alerta de temperatura muito baixa
+x: min < temp < max  
+y: temp > max  
+z: temp < min  
+e: Sem mais temperaturas registradas (ao final da palavra é necessário colocar um "e", end, pra sinalizar que aquela foi a última temperatura)  
+N: Sem alerta, temperatura normal  
+A: Alerta de temperatura muito alta  
+B: Alerta de temperatura muito baixa  
