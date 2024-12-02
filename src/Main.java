@@ -34,7 +34,7 @@ public class Main {
             if (temperatures[i] > max) {
                 res[i] = "Alert! Temperature above the maximum expected.";
             } else if (temperatures[i] < min) {
-                res[i] = "Alert! Temperature below the minimmum expected.";
+                res[i] = "Alert! Temperature below the minimum expected.";
             } else {
                 res[i] = "Normal temperature.";
             }
