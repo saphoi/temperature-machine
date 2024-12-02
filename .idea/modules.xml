@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/imagem/imagem.iml" filepath="$PROJECT_DIR$/imagem/imagem.iml" />
       <module fileurl="file://$PROJECT_DIR$/teoria-computacao.iml" filepath="$PROJECT_DIR$/teoria-computacao.iml" />
     </modules>
   </component>
